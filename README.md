@@ -23,3 +23,12 @@ namespace WpfApplication_OKSANA
 
             InitializeComponent();
         }
+        
+private static void s_b()
+        {
+            int y = 2;
+            while (true)
+            {
+                y *= y;
+            }
+        }
